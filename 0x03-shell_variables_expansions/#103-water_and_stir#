@@ -1,2 +1,0 @@
-#!/bin/bash
-printf '%\n' $(( $((5#$(echo $STIR | tr 'stir.' '01234'))) + $((5$#(echo 
